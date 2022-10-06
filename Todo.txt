@@ -1,0 +1,1 @@
+- Create asteroid, planet and star entities.
